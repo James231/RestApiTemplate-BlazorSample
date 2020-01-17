@@ -1,0 +1,53 @@
+﻿html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.account-card {
+    width: 80%;
+    max-width: 600px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.err-text {
+    color: red;
+}
+
+.account-field {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+div.account-field > label {
+    color: #808080 !important;
+}
+
+.account-lastfield {
+    margin-bottom: 30px;
+}
+
+div.account-lastfield > label {
+    color: #808080 !important;
+}
+
+.mdc-floating-label {
+    color: #000000;
+}
+
+.mtop {
+    margin-top: 15px;
+}
+
+.link {
+    color: #007f87;
+}
+
+.btn-row {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
